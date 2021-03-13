@@ -1,0 +1,11 @@
+Adapter pattern converts the interface of a class 
+into the interface the client expects.
+
+Adapter lets classes work together that couldn't
+otherwise because of incopatible interfaces.
+
+It decouples the client from the adaptee.
+If the adaptee interface changes, the adapter
+encapsulates the change so the client need not
+be modified every time it has to work againts 
+a different interface.
