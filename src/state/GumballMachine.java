@@ -1,5 +1,7 @@
 package state;
 
+import java.util.AbstractMap;
+
 public class GumballMachine {
 
     State noQuarterState;
