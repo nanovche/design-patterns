@@ -1,4 +1,4 @@
-package designPatterns.chainOfResponsibility;
+package chainOfResponsibility;
 
 public class FileLogger extends AbstractLogger {
 
