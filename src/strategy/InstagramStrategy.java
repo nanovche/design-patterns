@@ -1,4 +1,4 @@
-package designPatterns.strategy;
+package strategy;
 
 public class InstagramStrategy implements ISocialMediaStrategy{
     @Override

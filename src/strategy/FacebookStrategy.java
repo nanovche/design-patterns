@@ -1,4 +1,4 @@
-package designPatterns.strategy;
+package strategy;
 
 public class FacebookStrategy implements ISocialMediaStrategy{
 
